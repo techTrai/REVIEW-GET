@@ -5,10 +5,10 @@ const {mySQL} = require('./improts.js');
 // creating connection to the db
 
 const connection = mySQL.createConnection({
-    host: 'localhost',
-    user: 'techTrai',
-    password: 'techTrai123',
-    database: 'techtrailblazers'
+    host: 'sql307.infinityfree.com',
+    user: 'if0_35357402',
+    password: '0CXtfjQekD',
+    database: 'if0_35357402_TechTrailBlazers'
  });
 
  //checking connection status
